@@ -11,7 +11,6 @@
         <!--List App-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ListApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
@@ -55,6 +54,7 @@
                         <outlet property="tableView" destination="Diw-ta-lc5" id="fVg-x0-Vb4"/>
                     </connections>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="939.13043478260875" y="83.705357142857139"/>
         </scene>
